@@ -1,1 +1,1 @@
-java -Xmx1024M -Xms1024M -jar /opt/minecraft/minecraft_server.jar nogui
+/opt/java/bin/java -Xmx1024M -Xms1024M -jar /opt/minecraft/minecraft_server.jar nogui
